@@ -1,4 +1,4 @@
-##Digital Thermometer Using AVR ATMEGA 8
+#Digital Thermometer Using AVR ATMEGA 8#
 
 Global warming is a big problem now a day. People want to be more concerned about the 
 weather. They want to know the temperature and humidity thus they can forecast the 

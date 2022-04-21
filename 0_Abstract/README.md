@@ -1,4 +1,5 @@
 ##Digital Thermometer Using AVR ATMEGA 8
+
 Global warming is a big problem now a day. People want to be more concerned about the 
 weather. They want to know the temperature and humidity thus they can forecast the 
 weather change. Here digital thermometer based on ATmega8 microcontroller is a big 
@@ -15,4 +16,4 @@ when people use that types of device for their daily purpose. And that was our o
 construct such a device which can be operated easily and get output smoothly as a normal 
 people can use it. 
 So to construct a user friendly device which can sense the temperature from the nature
-and cost a little is our object
+and cost a little is our object.

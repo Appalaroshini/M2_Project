@@ -25,6 +25,8 @@ Visual studio code
 
 # Block Diagram
 ![image](https://user-images.githubusercontent.com/101495481/164688243-f3ca2d1b-d231-4724-8f6a-f5e61c2339a1.png)
+![image](https://user-images.githubusercontent.com/101495481/164692498-e74cdb07-19bd-40dc-a8b8-b42252a80b83.png)
+
 
 # Digital Thermometer
 ![image](https://user-images.githubusercontent.com/101495481/164689035-0725c183-9771-4e9d-bb13-07762abe319d.png)

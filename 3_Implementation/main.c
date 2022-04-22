@@ -1,5 +1,5 @@
 /**
- * Implements a digital thermometer with AVR ATmega8, 3 digit segment display and LM35 temperature sensor
+ * Implements a digital thermometer 
  *
  */
 

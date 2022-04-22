@@ -33,3 +33,7 @@ Visual studio code
 
 # Digital Thermometer
 ![image](https://user-images.githubusercontent.com/101495481/164689035-0725c183-9771-4e9d-bb13-07762abe319d.png)
+
+# Simulation
+![image](https://user-images.githubusercontent.com/101495481/164691064-d1812065-82c6-4b13-b0ce-ff745c45809b.png)
+

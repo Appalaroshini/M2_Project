@@ -22,3 +22,6 @@ Power supply: 5V
 Simulide
 
 Visual studio code
+
+# Block Diagram
+![image](https://user-images.githubusercontent.com/101495481/164688243-f3ca2d1b-d231-4724-8f6a-f5e61c2339a1.png)

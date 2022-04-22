@@ -6,22 +6,22 @@ Global warming is a big problem now a day. People want to be more concerned abou
 # Requirements
 
 # Components
-AVR ATmega8 (uses 1MHz internal clock)
+1. AVR ATmega8 (uses 1MHz internal clock)
 
-Potentiometer
+2. Potentiometer
 
-Display Hd44780
+3. Display Hd44780
 
-Capacitors - 0.1uF x 3
+4. Capacitors - 0.1uF x 3
 
-Resistors - 10k x 1; 100R x 3
+5. Resistors - 10k x 1; 100R x 3
 
-Power supply: 5V
+6. Power supply: 5V
 
 # Software Requirements
-Simulide
+1. Simulide
 
-Visual studio code
+2. Visual studio code
 
 # Block Diagram
 ![image](https://user-images.githubusercontent.com/101495481/164688243-f3ca2d1b-d231-4724-8f6a-f5e61c2339a1.png)
